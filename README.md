@@ -4,7 +4,7 @@ Sou o João, estudante de Engenharia de Computação no CEFET/RJ e estagiário d
 Engenharia de Dados na Accenture.
 
 - 🔧 Construo pipelines de dados de ponta a ponta, da coleta à visualização
-- 🤖 Uso IA em todas as etapas do desenvolvimento — e construo com ela: uma
+- 🤖 Uso IA em todas as etapas do desenvolvimento e construo com ela: uma
   automação que classifica chamados de suporte usando LLM, e medidas no Power BI
   conectando o modelo direto às bases via MCP
 - 📦 No meu primeiro estágio construí um sistema de controle de estoque em Python,
